@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)
+- 👨‍💻 All of my Web projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)
 
 - 💬 Ask me about **Html, Css, Js, Java, Python**
 
