@@ -32,8 +32,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,idea,atom,eclipse,ps,stackoverflow,cloudflare)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akila-gamage&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="akila-gamage" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=akila-gamage&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="akila-gamage" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akila-gamage&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="akila-gamage" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akila-gamage&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="akila-gamage" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-gamage&theme=dark" alt="akila-gamage" /></p>
