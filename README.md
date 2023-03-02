@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 👨‍💻 All of my projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)
+
 - 💬 Ask me about **Html, Css, Js, Java, Python**
 
 - 📫 How to reach me **akilagamage146@gmail.com**
@@ -21,6 +23,7 @@
 <a href="https://www.linkedin.com/in/akila-b-gamage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akila gamage" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akila.gamage.980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akila gamage" height="30" width="40" /></a>
 <a href="https://instagram.com/_.akila.b._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.akila.b._" height="30" width="40" /></a>
+<a href="https://dribbble.com/akila146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="akila146" height="30" width="40" /></a>
 <a href="https://discord.gg/Akila#0745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Akila#0745" height="30" width="40" /></a>
 </p>
 
