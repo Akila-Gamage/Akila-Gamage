@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 # 💫 About Me:
-- 🌱 I’m currently learning **React**<br><br>- 👨‍💻 All of my Web projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)<br><br>- 💬 Ask me about **Html, CSS, Js, Java, Python**<br><br>- 📫 How to reach me **akilagamage146@gmail.com**<br><br>- ⚡ Fun fact **I hate Java occasionally**
+- 🌱 <br><br>- 👨‍💻 All of my Web projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)<br><br>- 💬 Ask me about **Html, CSS, Js, React, Angular, Golang, Java, Python**<br><br>- 📫 How to reach me **akilagamage146@gmail.com**<br><br>- ⚡ Fun fact **I hate Java occasionally**
 
 
 ## 🌐 Socials:
