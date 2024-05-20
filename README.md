@@ -1,12 +1,15 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  alt="MasterHead"/>
+</p>
 <h1 align="center">Hi 👋, I'm Akila Budhvin Gamage</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
 
 # 💫 About Me:
-- 🌱 <br><br>- 👨‍💻 All of my Web projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)<br><br>- 💬 Ask me about **React, Angular**<br><br>- 📫 How to reach me **akilagamage146@gmail.com**<br><br>- 🌟 **When I'm not coding, I love playing games!**
-
-
+<img align="right" alt="Coding" width="400" 
+src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+- 🌱 <br><br>- 👨‍💻 All of my Web projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)<br><br>- 💬 Ask me about **React, Angular**<br><br>- 📫 How to reach me **akilagamage146@gmail.com**<br><br>- 🌟 **When I'm not coding, I love playing games!** 
+<br><br><br><br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Akila#0745) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akila.gamage.980) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.akila.b._) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AkilaGamage146) 
 
