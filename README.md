@@ -8,7 +8,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" 
 src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
-- 🌱 <br><br>- 👨‍💻 All of my Web projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)<br><br>- 💬 Ask me about **React, Angular**<br><br>- 📫 How to reach me **akilagamage146@gmail.com**<br><br>- 🌟 **When I'm not coding, I love playing games!** 
+- 🌱 <br><br>- 👨‍💻 All of my Web projects are available at [https://akila-gamage.github.io/](https://akila-gamage.github.io/)<br><br>- 💬 Ask me about **React, Angular**<br><br>- 📫 How to reach me **akilagamage146@gmail.com**<br><br>- 🌟 **When I'm not coding, I love watching F1** 
 <br><br><br><br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Akila#0745) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akila.gamage.980) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.akila.b._) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AkilaGamage146) 
